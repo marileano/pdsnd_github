@@ -13,5 +13,11 @@ The files used were:
 * bikeshare.py
 * input_util.py
 
+### Requirements
+* python 3.x
+* pandas
+* text editor
+* terminal
+
 ### Credits
 Thank you to Udacity and the Programming for Data Science with Python Nanodegree Program for such a challenging term and project!
