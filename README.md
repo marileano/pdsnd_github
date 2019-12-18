@@ -19,7 +19,7 @@ The files used were:
 * text editor
 * terminal
 
-###Interactive
+### Interactive
 Run this project using python and enter the values when prompted to learn more about the US Bikeshare Data in the major cities.
 
 ### Credits
