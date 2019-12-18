@@ -34,7 +34,7 @@ def get_filters():
            break
 
     # get user input for month (all, january, february, ... , june)
-    month = get_user_input('Great! Now it\'s time to provide us a month name '\
+    month = get_user_input('Great! Now it\'s time to provide a month name '\
                     'or just say \'all\' to apply no month filter. \n(e.g. all, january, february, march, april, may, june) \n> ', MONTHS)
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
