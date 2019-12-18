@@ -19,5 +19,8 @@ The files used were:
 * text editor
 * terminal
 
+###Interactive
+Run this project using python and enter the values when prompted to learn more about the US Bikeshare Data in the major cities.
+
 ### Credits
 Thank you to Udacity and the Programming for Data Science with Python Nanodegree Program for such a challenging term and project!
